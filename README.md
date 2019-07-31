@@ -1,4 +1,4 @@
 # hello-world
-##A newbie repo
+## A newbie repo
 
 This is unwarrented intrusion!
