@@ -1,2 +1,2 @@
-# hello-world
-A newbie repo
+# Carinas Arm 
+Destinations from Terran Oort Cloud Station
